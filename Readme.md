@@ -2,7 +2,7 @@
 
 ## Resumo do Projeto
 
-O dashboard de eficiência em produção apresenta uma análise abrangente do desempenho da equipe, destacando indicadores-chave para monitorar o progresso dos projetos. Isso inclui o número de projetos em andamento, a distribuição de salas por projeto e o status de conclusão de cada sala. Além disso, são fornecidos insights sobre a duração média das etapas do processo de produção e a eficiência global da equipe. Esses indicadores permitem uma avaliação rápida e informada do desempenho da produção, identificando áreas de melhoria e garantindo uma gestão eficaz dos recursos e prazos.
+O dashboard de eficiência em produção apresenta uma análise abrangente do desempenho da equipe, destacando indicadores-chave para monitorar o progresso dos projetos. Isso inclui o **número de projetos em andamento**, a **distribuição de salas por projeto** e o **status de conclusão de cada sala**. Além disso, são fornecidos insights sobre a **duração média das etapas** do **processo de produção** e a **eficiência global** da equipe. Esses indicadores permitem uma avaliação rápida e informada do desempenho da produção, identificando áreas de melhoria e garantindo uma **gestão eficaz** dos recursos e prazos.
 
 ## Telas
 

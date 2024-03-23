@@ -1,4 +1,4 @@
-# DashBoard de Eficiência em Produção
+# DashBoard de Eficiência de Produção
 
 ## Resumo do Projeto
 

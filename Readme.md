@@ -8,6 +8,21 @@ Clicando nos topicos abaixo
 
 * [Dashboar de Eficiência de Produção](https://www.exemplo.com)
 * [Dashboar de Planejamento - Curva S](https://www.exemplo.com)
+* [Dashboar de Cronograma e Presença - Reuniões e Eventos](https://www.exemplo.com)
+* [Dashboar de Apontamento OP's Fabricação](https://www.exemplo.com)
+* [Dashboar de Programação de Férias e Home Office](https://www.exemplo.com)
+* [Dashboar de Downtime](https://www.exemplo.com)
+* [Dashboar de Programação de Férias e Home Office](https://www.exemplo.com)
+* [Dashboar de Auditoria](https://www.exemplo.com)
+* [Dashboar de Estoque](https://www.exemplo.com)
+* [Dashboar de Absenteismo - Operação](https://www.exemplo.com)
+* [Dashboar de Análise de Vendas](https://www.exemplo.com)
+* [Dashboar de Indicadores RH](https://www.exemplo.com)
+* [Dashboar de Análise de Vendas - Mobile](https://www.exemplo.com)
+
+Forma 2:
+
+* Clicando no botão de Menu ao lodo superior direito
 
 
 

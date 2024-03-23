@@ -14,4 +14,4 @@ O dashboard de eficiência em produção apresenta uma análise abrangente do de
 | Dias | Numero de dias por etapa e sala, demonstrando a meta a ser cumprida com discritivo detalhado |
 | Eficiência | %  de Eficiência geral por projetos|
 
-
+___

@@ -12,3 +12,5 @@ Conjunto de indicadores precisos e visuais que oferecem uma visão abrangente do
 |---|---|
 | Curva S| Detalhamento em S de tipos de conclusão, detalhamento de paradas, farol contendo quantidade de atividades e seus status e botão de Filtro Aprimorado|
 | Filtro Aprimorado | Diversas opções de filtros ocupando um espaço pequeno do desing |
+
+___

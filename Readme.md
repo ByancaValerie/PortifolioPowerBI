@@ -1,4 +1,15 @@
-# Portifolio 
+# Portifolio - Como Navegar
+
+Você pode navegar de três formas pelo portifolio:
+
+Forma 1:
+
+Clicando nos topicos abaixo
+
+* [Dashboar de Eficiência de Produção](https://www.exemplo.com)
+* [Dashboar de Planejamento - Curva S](https://www.exemplo.com)
+
+
 
 ## DashBoard de Eficiência de Produção
 

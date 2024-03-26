@@ -1,6 +1,6 @@
 # Portifolio - Como Navegar
 
-### Em desenvolvimento
+<a id="page"></a>
 ___
 Você pode navegar de três formas pelo portifolio:
 
@@ -23,7 +23,13 @@ Forma 2:
 
 * Clicando no botão de Menu ao lodo superior direito
 
+![passo2](https://github.com/ByancaValerie/PortifolioPowerBI/assets/162714310/f3426f11-8aa3-4a1a-97f8-c2fa23ae88c9)
+
 * Descendo a barra de rolagem
+
+![passo3](https://github.com/ByancaValerie/PortifolioPowerBI/assets/162714310/382ffecf-1f8d-43b6-8e03-0fe0d17ce72e)
+
+
 <a id="EficienciaProducao"></a>
 ___
 
@@ -44,6 +50,8 @@ O dashboard de eficiência em produção apresenta uma análise abrangente do de
 | Dias | Numero de dias por etapa e sala, demonstrando a meta a ser cumprida com discritivo detalhado |
 | Eficiência | %  de Eficiência geral por projetos|
 
+**[Voltar para o topo](#page)**
+
 <a id="curvaS"></a>
 ___
 
@@ -62,6 +70,7 @@ Conjunto de indicadores precisos e visuais que oferecem uma visão abrangente do
 | Curva S| Detalhamento em S de tipos de conclusão, detalhamento de paradas, farol contendo quantidade de atividades e seus status e botão de Filtro Aprimorado|
 | Filtro Aprimorado | Diversas opções de filtros ocupando um espaço pequeno do desing |
 
+**[Voltar para o topo](#page)**
 ___
 <a id="cronograma"></a>
 
@@ -80,6 +89,8 @@ Dashboard interativo que oferece uma lista de presença para eventos obrigatóri
 |---|---|
 | Presença| Nomes das pessoas presentes por evento, data do primeiro evento e do ultimo e quantidade de eventos por pessoa|
 | Cronograma | Cronograma interativo com eventos e suas atividades |
+
+**[Voltar para o topo](#page)**
 ___
 <a id="ops"></a>
 
@@ -103,6 +114,7 @@ Dashboard de apontamentos de fabricação que fornece uma visão do número de p
 
 <a id="ferias"></a>
 
+**[Voltar para o topo](#page)**
 ____
 
 # Dashboard de Programação de Férias e Home Office
@@ -118,6 +130,8 @@ Um dashboard para programação de férias e dias de home office, incluindo um c
 
 
 <a id="downtime"></a>
+
+**[Voltar para o topo](#page)**
 ____
 
 # Dashboard de Downtime
@@ -137,6 +151,8 @@ Dashboard de tempo ocioso por etapa de projeto, com foco nas paradas planejadas 
 | Detratores | Tela focada nos detratores e % correspondente de cada um |
 
 <a id="auditoria"></a>
+
+**[Voltar para o topo](#page)**
 _______
 
 # Dashboard de Auditoria
@@ -151,6 +167,8 @@ Dashboard  com calendário interativo de auditorias, projetado especialmente par
 ![auditoria](https://github.com/ByancaValerie/PortifolioPowerBI/assets/162714310/a4361fe0-0eb9-4b64-b771-ad80bf5b1cb0)
 
 <a id="vendas"></a>
+
+**[Voltar para o topo](#page)**
 _______
 
 # Dashboard de Análise de Vendas
@@ -165,6 +183,8 @@ Dashboard de acompanhamento de vendas que detalha o faturamento por loja, o valo
 ![vendas](https://github.com/ByancaValerie/PortifolioPowerBI/assets/162714310/47bae338-5607-4b4f-ac99-78caa3ed750a)
 
 <a id="rh"></a>
+
+**[Voltar para o topo](#page)**
 ______
 
 # Dashboard de Indicadores RH
@@ -178,6 +198,8 @@ Dashboard de indicadores de Recursos Humanos (RH), que abrange os principais asp
 ![rh](https://github.com/ByancaValerie/PortifolioPowerBI/assets/162714310/38e386c9-8477-4819-80a6-57ae9209d536)
 
 <a id="mobile"></a>
+
+**[Voltar para o topo](#page)**
 ______
 
 # Dashboard de Análise de Vendas - Mobile
@@ -190,3 +212,4 @@ Dashboard completo de acompanhamento de vendas, englobando faturamento, custos, 
 
 ![mobile](https://github.com/ByancaValerie/PortifolioPowerBI/assets/162714310/85f14ac7-2b78-4903-a3ad-4f746673f33b)
 
+**[Voltar para o topo](#page)**
